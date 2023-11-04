@@ -19,7 +19,7 @@
 }
    ```
 4. Ini adalah hasil outputnya
-![Screenshot (11)](https://github.com/Robby170/tugas-coding-robi-4/assets/147369364/644c5d9a-b01a-474f-86aa-32dbaebb749f)
+
 
 
 ## Tugas 2
